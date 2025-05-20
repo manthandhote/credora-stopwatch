@@ -7,13 +7,6 @@ A simple stopwatch application built using **HTML**, **CSS**, and **JavaScript**
 - Responsive and clean UI
 - Built using vanilla JavaScript
 
-## 📂 Folder Structure
-credora-stopwatch/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
 
 ## 📸 Screenshot
 ![Stopwatch Screenshot](screenshot.png)
@@ -24,6 +17,7 @@ git clone https://github.com/manthandhote/credora-stopwatch.git
 Open index.html in your browser.
 
 🛠️ Technologies Used
+
 HTML5
 
 CSS3

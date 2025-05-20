@@ -1,0 +1,63 @@
+.container{
+    height:100vh;
+    width:100vw;
+    background-color: black;
+    margin:10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.watchContainer{
+    background-color:gray;
+    height:70vh;
+    width:50vw;
+    border-radius: 20px;
+    border:1px solid;
+    margin:auto;
+}
+.watch{
+    background-color: beige;
+    height:10vh;
+    width:20vw;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#time{
+    color:black;
+    font-family:  sans-serif;
+}
+button{
+    background-color: greenyellow;
+    height:8vh;
+    width:100px;
+    color: white;
+    border-radius: 10px;
+    border:2px black;
+    margin: 10px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.button-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+h1{
+    font-size: 3vw;
+}
+#start{
+    background-color: rgb(46, 185, 25);
+}
+#stop{
+    background-color: red;
+}
+#reset{
+    background-color: blue;
+}
